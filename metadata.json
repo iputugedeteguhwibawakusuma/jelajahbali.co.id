@@ -1,0 +1,11 @@
+{
+  "name": "JelajahBali",
+  "description": "Aplikasi pariwisata progresif JelajahBali dengan Jurnal Perjalanan, Kamera, dan Peta Interaktif",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
